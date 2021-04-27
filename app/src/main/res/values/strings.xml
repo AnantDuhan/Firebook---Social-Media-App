@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebook</string>
+    <string name="register">Register.</string>
+    <string name="nice_to_see_you_again">Nice to see you again</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login">Login</string>
+    <string name="what_do_you_want_to_talk_about">What do you want to talk about?</string>
+    <string name="post">POST</string>
+    <string name="you_are_not_a_member">You are not a member?</string>
+    <string name="post2">POST</string>
+    <string name="click_to_create_a_post">Click to create a post</string>
+</resources>
